@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Amber Atac"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Amber Atac"
+  image = "img/amber.jpeg"
+  headline = "Aspiring Oppenheimer"
+  bio = "Theory will only take you so far"
+  links = [
+    { email = "mailto:amberatac@berkeley.edu" },
+    { github = "https://github.com/amberaatac" },
+   # { instagram = "https://instagram.com/username" },
+    { linkedin = "https://linkedin.com/in/amberaatac/" },
+   # { pinterest = "https://pinterest.com/username" },
+   # { twitter = "https://twitter.com/username" },
+  ]
